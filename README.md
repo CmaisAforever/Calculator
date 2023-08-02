@@ -1,8 +1,8 @@
-- 👋 Oie, sou @CmaisAforever!
-- 👀 Faço curso técnico de informática para internet na Etec Albert Einstein e estou no meu primeiro ano.
-- 🌱 Estou atualmente aprendendo CSS, javascript e git/github.
-- 💞️ Procuro colocar meus projetos por aqui.
-- 📫 E estou sempre interessada em aprender mais coisas sobre informática.
+- 👋 Hi, I'm @CmaisAforever!
+- 👀 I study technical course of computer for internet at Etec Albert Einstein and I am in my first year of high school..
+- 🌱 I'm actually learning CSS, javascript and git/github.
+- 💞️ I try to put my projects here.
+- 📫 And I'm always interested in learning more about computers.
 
 <!---
 CmaisAforever/CmaisAforever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
